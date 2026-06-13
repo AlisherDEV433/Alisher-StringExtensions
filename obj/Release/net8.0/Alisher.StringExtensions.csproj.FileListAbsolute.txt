@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\bin\Release\net8.0\Alisher.StringExtensions.deps.json
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\bin\Release\net8.0\Alisher.StringExtensions.dll
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\bin\Release\net8.0\Alisher.StringExtensions.pdb
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\Alisher.StringExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\Alisher.StringExtensions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\Alisher.StringExtensions.AssemblyInfo.cs
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\Alisher.StringExtensions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\Alisher.StringExtensions.dll
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\refint\Alisher.StringExtensions.dll
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\Alisher.StringExtensions.pdb
+C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\obj\Release\net8.0\ref\Alisher.StringExtensions.dll

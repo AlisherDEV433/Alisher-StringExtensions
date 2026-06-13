@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<!-- NuGet uchun maxsus sozlamalar -->
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>Alisher.StringExtensions</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Alisher</Authors>
+		<Company>Alisher Dev</Company>
+		<Description>Matnlar tarkibidagi ortiqcha bo'shliqlarni oson tozalash uchun extension paket.</Description>
+		<PackageTags>string;extensions;spaces;clean</PackageTags>
+	</PropertyGroup>
+
+</Project>

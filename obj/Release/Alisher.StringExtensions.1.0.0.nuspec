@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Alisher.StringExtensions</id>
+    <version>1.0.0</version>
+    <authors>Alisher</authors>
+    <description>Matnlar tarkibidagi ortiqcha bo'shliqlarni oson tozalash uchun extension paket.</description>
+    <tags>string extensions spaces clean</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\repos\Alisher.StringExtensions\Alisher.StringExtensions\bin\Release\net8.0\Alisher.StringExtensions.dll" target="lib\net8.0\Alisher.StringExtensions.dll" />
+  </files>
+</package>
